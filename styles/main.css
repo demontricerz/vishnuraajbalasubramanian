@@ -1498,7 +1498,7 @@ fieldset[disabled]
 .show > .btn-primary.dropdown-toggle,
 .show > .btn-primary.dropdown-toggle:focus,
 .show > .btn-primary.dropdown-toggle:hover {
-  background-color: #40a249;
+  background-color: #240066;
   color: #FFFFFF;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -2573,16 +2573,16 @@ textarea.form-control:focus, textarea.form-control:active {
 }
 
 .progress-container.progress-primary .progress {
-  background: rgba(55, 140, 63, 0.4);
+  background: rgba(81, 55, 140, 0.4);
 }
 
 .progress-container.progress-primary .progress-bar {
-  background: #378C3F;
+  background: #3500f7;
 }
 
 .progress-container.progress-primary .progress-value,
 .progress-container.progress-primary .progress-badge {
-  color: #378C3F;
+  color: #2f00ff;
 }
 
 .progress-container.progress-info .progress {
@@ -3077,7 +3077,7 @@ body {
 }
 
 .nav-pills.nav-pills-primary .nav-item .nav-link.active, .nav-pills.nav-pills-primary .nav-item .nav-link.active:focus, .nav-pills.nav-pills-primary .nav-item .nav-link.active:hover {
-  background-color: #378C3F;
+  background-color: #2f00ff;
 }
 
 .nav-pills.nav-pills-info .nav-item .nav-link.active, .nav-pills.nav-pills-info .nav-item .nav-link.active:focus, .nav-pills.nav-pills-info .nav-item .nav-link.active:hover {
@@ -3385,7 +3385,7 @@ body {
 }
 
 .bg-success {
-  background-color: #18ce0f !important;
+  background-color: #2f00ff !important;
 }
 
 .bg-danger {
@@ -7081,6 +7081,9 @@ Created using IcoMoon - icomoon.io
 }
 .btn-blue{
   background-color: rgba(0, 0, 243, 1);
+}
+.btn-blue:hover{
+  background-color: rgb(6, 6, 87);
 }
 .cc-profile-image img {
   position: relative;
